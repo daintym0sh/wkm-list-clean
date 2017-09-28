@@ -1,7 +1,7 @@
 # IntelliJ
 out/
-.iml
-.idea
+.idea/*
+*.iml
 
 #project files
-.xls
+*.xls
